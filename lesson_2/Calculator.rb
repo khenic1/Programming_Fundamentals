@@ -103,7 +103,7 @@ end
               number1.to_i() * number2.to_i
             when '4'
               number1.to_f() / number2.to_f 
-            end 
+  end 
 
 
 
